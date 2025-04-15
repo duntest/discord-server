@@ -16,7 +16,7 @@ This is an English server, you will have to use English in most of the channels,
 - 🇻🇳 <#1353326694710378509> - Vietnamese
 
 #### 2.1.2 Requesting New Language Channels or Manager Roles
-Creating and maintaining channels in multiple languages is complex, so at this time, we haven't committed to adding new ones. However, we’re open to future discussions, feel free to bring it up in the server if there's interest.
+Creating and maintaining channels in multiple languages is complex, so at this time, we haven't committed to adding new ones. However, we’re open to future discussions, feel free to bring it up in the server.
 
 ### 2.2 No Spamming
 Do not flood the chat with repeated messages, reactions, or unnecessary mentions. This includes:
